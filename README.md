@@ -1,1 +1,1 @@
-# package
+# inheritance
